@@ -46,7 +46,7 @@
         "main": true,
         "title": "SNS넘버원",
         "meta_descr": "",
-        "header_custom": "<head>\n    <title>SNS넘버원</title>\n    <meta property=\"og:url\" content=\"http://sns-no1.com/\">\n    <meta property=\"og:title\" content=\"SNS넘버원\">  \n    <meta property=\"og:type\" content=\"website\">\n    <meta property=\"og:image\" content=\"https://i.imgur.com/rTIBSJ9.jpg\">\n    <meta property=\"og:description\" content=\"Self Social Marketing Service\">\n    <meta name=\"description\" content=\"Self Social Marketing Service\">\n    <meta name=\"keywords\" content=\"인스타그램마케팅,인스타그램자동관리,팔로우늘리기,좋아요늘리기\">\n    ... \n</head>",
+        "header_custom": "<head>\n    <title>SNS넘버원</title>\n    <meta property=\"og:url\" content=\"http://sns-no1.com/\">\n    <meta property=\"og:title\" content=\"SNS넘버원\">  \n    <meta property=\"og:type\" content=\"website\">\n    <meta property=\"og:image\" content=\"https://i.imgur.com/rTIBSJ9.jpg\">\n    <meta property=\"og:description\" content=\"Self Social Marketing Service\">\n    <meta name=\"description\" content=\"Self Social Marketing Service\">\n    <meta name=\"keywords\" content=\"인스타그램마케팅,인스타그램자동관리,팔로우늘리기,좋아요늘리기\">\n</head>",
         "footer_custom": "",
         "html_before": ""
       },
