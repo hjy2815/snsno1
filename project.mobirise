@@ -46,7 +46,7 @@
         "main": true,
         "title": "SNS넘버원",
         "meta_descr": "",
-        "header_custom": "<head>\n    <title>SNS넘버원</title>\n    <meta property=\"og:url\" content=\"http://sns-no1.com/\">\n    <meta property=\"og:title\" content=\"SNS넘버원\">  \n    <meta property=\"og:type\" content=\"website\">\n    <meta property=\"og:image\" content=\"https://i.imgur.com/rTIBSJ9.jpg\">\n    <meta property=\"og:description\" content=\"인스타그램 인기게시물 전문업체\">\n    <meta name=\"description\" content=\"인스타그램 인기게시물 전문업체\">\n    <meta name=\"keywords\" content=\"인스타그램마케팅,인스타그램자동관리,팔로우늘리기,좋아요늘리기\">\n<script src='https://cdn.useproof.com/proof.js?acc=eglRYqbZ9pQY6tXvdQHZuhbS1n23' async></script>\n</head>\n",
+        "header_custom": "<head>\n    <title>SNS넘버원</title>\n    <meta property=\"og:url\" content=\"http://sns-no1.com/\">\n    <meta property=\"og:title\" content=\"SNS넘버원\">  \n    <meta property=\"og:type\" content=\"website\">\n    <meta property=\"og:image\" content=\"https://i.imgur.com/rTIBSJ9.jpg\">\n    <meta property=\"og:description\" content=\"인스타그램 인기게시물 전문업체\">\n    <meta name=\"description\" content=\"인스타그램 인기게시물 전문업체\">\n    <meta name=\"keywords\" content=\"인스타그램마케팅,인스타그램자동관리,팔로우늘리기,좋아요늘리기\">\n</head>\n",
         "footer_custom": "",
         "html_before": ""
       },
